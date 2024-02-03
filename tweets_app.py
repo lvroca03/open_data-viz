@@ -183,7 +183,7 @@ with tab5:
         st.plotly_chart(sentimientos_donut, use_container_width=True)
 
 
-
+    nltk.download('stopwords')
     stopwords = nltk.corpus.stopwords.words('spanish')
     newStopWords = ['t', "tras", 'co', 'https', 'que', 'el', 'del', 'es', 'la', "m s", 'de', 'un', 'son', 'tambien',
                     'porque', 'cuando', 'lo', 'su', 'pueden', 'hacer', 'le', 'esto', 'nadie', 'yo', 'mas', 'hasta', 'por',
