@@ -80,7 +80,6 @@ pymusixmatch==0.3
 pyOpenSSL==23.3.0
 pyparsing==3.1.1
 PySocks==1.7.1
-pywin32==305.1
 PyYAML==6.0.1
 queuelib==1.6.2
 redis==5.0.1
