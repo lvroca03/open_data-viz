@@ -1,7 +1,6 @@
 aiosqlite==0.19.0
 altair==5.2.0
 anyio==4.2.0
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
 attrs==23.2.0
 Automat==22.10.0
 Babel==2.14.0
